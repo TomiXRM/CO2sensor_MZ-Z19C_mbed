@@ -1,0 +1,2 @@
+# CO2sensor_MZ-Z19C_mbed
+mbedOS5でCO2センサを使用してCO2量を計測するプログラム
